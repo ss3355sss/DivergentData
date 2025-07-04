@@ -68,3 +68,4 @@ workspace -fr "WIRE_ATF" "Data";
 workspace -fr "templates" "Assets";
 workspace -fr "OBJexport" "Data";
 workspace -fr "furAttrMap" "RenderData/Fur/FurAttrMap";
+workspace -fr "Character" "Character";
