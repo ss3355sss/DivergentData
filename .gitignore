@@ -1,7 +1,0 @@
-.bak
-Content/*
-
-# Excetion for ignore
-!Content/__ExternalActors__/Divergent
-!Content/__ExternalObjects__/Divergent
-!Content/Divergent
